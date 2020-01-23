@@ -1,0 +1,47 @@
+body {
+    background-color: #E1CA85 ;
+    font-family: sans-serif;
+    margin: auto;
+    width: 70%;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+img {
+    opacity: 0.75;  
+    text-align: center;
+}
+
+p { 
+    text-align: justify;
+}
+
+
+.center {
+    text-align: center;
+}
+
+.fig {
+    margin: auto;
+    text-align: center;
+}
+
+.figcenter {
+    margin: auto;
+    text-align: center;
+}
+
+.fnanchor {
+    font-size: small;
+    left: auto;
+}
+
+.pagenum {
+    left: 90%;
+    position: absolute;
+    font-size: smaller;
+    text-align: right;
+}
