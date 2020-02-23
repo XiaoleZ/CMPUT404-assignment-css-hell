@@ -24,9 +24,9 @@ Code is licensed under the Apache 2.0 license.
 Part 1
 ===============
 Books: 
-+ Anthem, by Ayn Rand
-+ A Christmas Carol, by Charles Dickens
-+ CANDIDE BY VOLTAIRE
++ [Anthem, by Ayn Rand](http://www.gutenberg.org/ebooks/1250)
++ [A Christmas Carol, by Charles Dickens](http://www.gutenberg.org/ebooks/46)
++ [CANDIDE BY VOLTAIRE](http://www.gutenberg.org/ebooks/19942)
 
 Modifications:
 + Change the background color to #E1CA85 
