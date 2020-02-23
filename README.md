@@ -21,4 +21,21 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part 1
+===============
+Books: 
++ Anthem, by Ayn Rand
++ A Christmas Carol, by Charles Dickens
++ CANDIDE BY VOLTAIRE
 
+Modifications:
++ Change the background color to #E1CA85 
++ Change font-family to sans-serif
++ Change image with 75% opacity and center the text of image
++ Center the paragrah and header text
++ Apply 1 main.css file to 3 gutenberg documents.
++ Change page number smaller and to the right of the page in CANDIDE
+
+Reference
+=============
+[Animate the quotes](https://www.youtube.com/watch?v=GhxNhdf0liA)
